@@ -4,9 +4,6 @@ title: "Strategi Testing"
 date: 2025-09-10
 categories: [Software Testing and Quality Assurance]
 tags: [Article]
-image:
-  path: /assets/img/sample.jpg
-  alt: "Sample image"
 ---
 # Strategi Testing
 

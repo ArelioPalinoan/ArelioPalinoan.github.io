@@ -4,9 +4,6 @@ title: "Unit Testing"
 date: 2025-10-08
 categories: [Software Testing and Quality Assurance]
 tags: [Article]
-image:
-  path: /assets/img/sample.jpg
-  alt: "Sample image"
 ---
 # Unit Testing
 

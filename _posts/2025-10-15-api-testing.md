@@ -4,9 +4,6 @@ title: "API Testing"
 date: 2025-10-15
 categories: [Software Testing and Quality Assurance]
 tags: [Article]
-image:
-  path: /assets/img/sample.jpg
-  alt: "Sample image"
 ---
 # API Testing
 

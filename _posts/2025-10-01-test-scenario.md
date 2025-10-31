@@ -4,9 +4,6 @@ title: "Test Scenario, Test Case, dan Bug Report"
 date: 2025-10-01
 categories: [Software Testing and Quality Assurance]
 tags: [Article]
-image:
-  path: /assets/img/sample.jpg
-  alt: "Sample image"
 ---
 # Test Scenario, Test Case, dan Bug Report
 

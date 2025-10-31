@@ -4,9 +4,6 @@ title: "UI/UX Testing"
 date: 2025-09-17
 categories: [Software Testing and Quality Assurance]
 tags: [Article]
-image:
-  path: /assets/img/sample.jpg
-  alt: "Sample image"
 ---
 # UI/UX Testing
 

@@ -4,9 +4,6 @@ title: "Testing Plan"
 date: 2025-09-24
 categories: [Software Testing and Quality Assurance]
 tags: [Article]
-image:
-  path: /assets/img/sample.jpg
-  alt: "Sample image"
 ---
 # Testing Plan
 
